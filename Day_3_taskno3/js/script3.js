@@ -9,7 +9,7 @@ function reqListener() {
             console.log(countryArr[i].subregion)
             console.log(countryArr[i].population)
           
-        }
+        } 
     
   }
   
