@@ -3,7 +3,7 @@ function reqListener() {
 
     for(let i=0;i<=countryArr.length-1;i++)
         {
-            console.log(countryArr[i].flags.png)
+            console.log(countryArr[i].flags.png) 
         }
   }
   
