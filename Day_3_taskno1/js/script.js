@@ -6,5 +6,5 @@ let obj2={age:5,
 }
 if(true)
     {
-        console.log(obj1==obj2)
+        console.log(obj1==obj2) 
     }
